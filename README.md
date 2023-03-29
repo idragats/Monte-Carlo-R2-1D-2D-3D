@@ -1,4 +1,4 @@
-# Monte Carlo $$$\<R^2>\$$$ 1D 2D 3D
+# Monte Carlo $<R^2>$ 1D 2D 3D
 
 In this section we use Monte Carlo technique, that we discribed and applied at the first simulation, to calculate the mean square distance. 
 In our calculation we set the step of this simulation 100. So, the simulation begin from 100 to 1000 and we apply a Random Walk for every step N Monte Carlo times (Nmc = 10000). 
